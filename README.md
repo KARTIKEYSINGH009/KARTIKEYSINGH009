@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Kartikey Singh 👋 🚀
 
-<!--
-**KARTIKEYSINGH009/KARTIKEYSINGH009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE (Cloud Computing & Automation) Student  
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science student at VIT Bhopal University with a strong interest in programming, problem solving, and emerging technologies. I am currently building my foundation in software development while exploring areas such as Artificial Intelligence, cloud computing, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Quick Overview
+- 🔭 Currently learning Data Structures & Algorithms  
+- 🤖 Exploring basics of Artificial Intelligence  
+- ☁️ Interested in Cloud Computing and Automation  
+- 🎯 Goal: To build efficient and scalable software solutions  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Core
+- Python  
+- C++  
+- Data Structures & Algorithms  
+
+### ⚙️ Tools
+- Git & GitHub  
+- Canva  
+
+---
+
+## 📌 Projects
+- 🛒 Mall Items Management System  
+- 📊 Student Performance Predictor  
+- 🌐 Digital Literacy Portfolio  
+
+---
+
+## 🎯 Interests
+- Artificial Intelligence  
+- Cloud Computing  
+- Software Development  
+- Problem Solving  
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kartikey-singh-ba8b57390/  
+- 💻 HackerRank: https://www.hackerrank.com/profile/kartikey11015/
+
+---
+
+⭐ *Always learning and improving*
