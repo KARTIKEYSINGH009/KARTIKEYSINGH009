@@ -1,6 +1,6 @@
 # Hi, I'm Kartikey Singh 👋 🚀
 
-### 🎓 B.Tech CSE (Cloud Computing & Automation) Student  
+### 🎓 B.Tech CSE (Artificial Intelligence and Machine Learning) Student  
 
 I am a B.Tech Computer Science student at VIT Bhopal University with a strong interest in programming, problem solving, and emerging technologies. I am currently building my foundation in software development while exploring areas such as Artificial Intelligence, cloud computing, and automation.
 
