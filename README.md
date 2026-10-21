@@ -73,7 +73,7 @@ VIT Bhopal University
 
 ## Contact
 
-- **Portfolio:** [portfolio-lyajxote4-kartikeysingh009.vercel.app](https://portfolio-lyajxote4-kartikeysingh009.vercel.app)
+- **Portfolio:** [portfolio-kartikeysingh009.vercel.app](https://portfolio-kartikeysingh009.vercel.app)
 - **Fiverr:** [fiverr.com/singhkartikey](https://www.fiverr.com/singhkartikey)
 - **LinkedIn:** [linkedin.com/in/kartikey-singh-ba8b57390](https://www.linkedin.com/in/kartikey-singh-ba8b57390/)
 - **HackerRank:** [hackerrank.com/profile/kartikey11015](https://www.hackerrank.com/profile/kartikey11015/)
