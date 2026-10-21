@@ -1,73 +1,79 @@
 # Kartikey Singh
 
-### 🎓 B.Tech Computer Science (AI & ML) @ VIT Bhopal University
+**AI/ML Developer** — I build AI systems that do real work: voice agents, workflow automations, RAG chatbots, and LLM security tooling. Based in Bhopal, India.
 
-AI/ML developer who builds end-to-end: machine learning models, concurrent Java systems, and production-deployed web apps. I care about writing clean code, understanding systems deeply, and shipping real things — not just tutorials.
-
-📍 Bhopal, India &nbsp;·&nbsp; 🎯 **Open to internships and entry-level roles**
-
----
-
-## 💼 Featured Work
-
-### [🌐 Personal Portfolio](https://portfolio-lyajxote4-kartikeysingh009.vercel.app) — *Live*
-Single-page portfolio site with a custom editorial design system. Deployed to production on Vercel.
-`HTML` `CSS` `Vercel`
-
-### [📊 Student Performance Predictor](https://github.com/KARTIKEYSINGH009/Student-Performance-Predictor)
-Machine learning project that predicts student academic performance from historical data — data preprocessing, model training, and evaluation pipeline.
-`Python` `Machine Learning` `Data Analysis`
-
-### [🕵️ ARGUS — Concurrent Event Investigation Engine](https://github.com/KARTIKEYSINGH009/ARGUS-Concurrent-Event-Investigation-Engine)
-Java CLI engine for concurrent event investigation with explainable anomaly detection. Built around multithreading, synchronization, and clean OOP design.
-`Java` `Concurrency` `OOP`
-
-### [🛒 Mall Items Management System](https://github.com/KARTIKEYSINGH009/Mall-Items-Management-System)
-Console-based inventory management system — item tracking, billing logic, and persistent record handling.
-`Python` `System Design`
+AI/ML Developer (self-employed) · B.Tech CSE (AI/ML), VIT Bhopal
+Open to freelance projects and internship opportunities.
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python, Java, C++, HTML, CSS |
-| **CS Fundamentals** | Data Structures & Algorithms, OOP, Multithreading |
-| **AI / ML** | Machine Learning fundamentals, Data preprocessing, Model evaluation |
-| **Tools & Platforms** | Git, GitHub, Vercel |
+### [Verity — AI Firewall for LLM Apps](https://github.com/KARTIKEYSINGH009/verity)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+An OpenAI-compatible gateway that sits between your application and the language model. Incoming prompts are screened for prompt-injection and jailbreak attempts (eleven heuristic rules layered with a trained Naive Bayes classifier), outgoing answers are graded for faithfulness by an LLM judge, business policies are enforced on both sides of the call, and every request is written to a trace log.
+
+`Python` · `FastAPI` · `scikit-learn` — [Live demo](https://verity-nine-flame.vercel.app)
+
+### [Crewly](https://github.com/KARTIKEYSINGH009/crewly)
+
+A virtual office for AI agents. A team leader creates a workspace, members connect their AI agents, work moves as structured task handoffs between agents, and humans stay in charge through daily work reports and approval gates. MVP in development.
+
+`Next.js` · `TypeScript` · `Supabase`
+
+### [ARGUS — Concurrent Event Investigation Engine](https://github.com/KARTIKEYSINGH009/ARGUS-Concurrent-Event-Investigation-Engine)
+
+A dependency-free Java CLI that stores security events, evaluates detection rules concurrently over a fixed thread pool, and flags anomalies with explainable reasons — plus per-user investigation timelines with risk summaries.
+
+`Java 17` · `Concurrency` · `CLI`
+
+### [Student Performance Predictor](https://github.com/KARTIKEYSINGH009/Student-Performance-Predictor)
+
+Machine learning project that predicts whether a student will pass or fail from marks, attendance, and daily study hours — a logistic regression classifier with an interactive terminal prediction mode.
+
+`Python` · `scikit-learn` · `pandas`
+
+### [Mall Items Management System](https://github.com/KARTIKEYSINGH009/Mall-Items-Management-System)
+
+Console program for mall item management — browsing items, cart management, and total cost calculation — designed with OOP principles: classes, inheritance, and modularisation.
+
+`Python` · `OOP`
 
 ---
 
-## 📊 GitHub Activity
+## What I Do
 
-![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTIKEYSINGH009&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKEYSINGH009&layout=compact&hide_border=true)
+- **AI voice agents** — receptionist and calling agents built with Retell and Vapi
+- **Workflow automation** — business process automation with n8n
+- **RAG chatbots** — chatbots that answer from your website and documents, built with LangChain
+- **LLM security & evaluation** — guardrails, faithfulness grading, and observability (see Verity)
+
+Available for hire on [Fiverr](https://www.fiverr.com/singhkartikey).
 
 ---
 
-## 🎓 Education
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Java, C++, TypeScript |
+| AI / ML | scikit-learn, pandas, NumPy, LangChain, RAG, LLM evaluation |
+| Voice & Automation | Retell AI, Vapi, n8n, REST APIs |
+| Web & Backend | FastAPI, Next.js, Supabase, HTML / CSS |
+| Fundamentals | Data Structures & Algorithms, OOP, Concurrency, Git |
+
+---
+
+## Education
 
 **B.Tech, Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
 VIT Bhopal University
 
-**Currently focused on:** Data Structures & Algorithms · Machine Learning · Cloud & Automation
-
 ---
 
-## 📬 Let's Talk
+## Contact
 
-I'm looking for internship opportunities where I can contribute real code and keep growing as an engineer.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kartikey-singh-ba8b57390/)
-- 💻 [HackerRank](https://www.hackerrank.com/profile/kartikey11015/)
-- 🌐 [Portfolio](https://portfolio-lyajxote4-kartikeysingh009.vercel.app)
+- **Portfolio:** [portfolio-lyajxote4-kartikeysingh009.vercel.app](https://portfolio-lyajxote4-kartikeysingh009.vercel.app)
+- **Fiverr:** [fiverr.com/singhkartikey](https://www.fiverr.com/singhkartikey)
+- **LinkedIn:** [linkedin.com/in/kartikey-singh-ba8b57390](https://www.linkedin.com/in/kartikey-singh-ba8b57390/)
+- **HackerRank:** [hackerrank.com/profile/kartikey11015](https://www.hackerrank.com/profile/kartikey11015/)
